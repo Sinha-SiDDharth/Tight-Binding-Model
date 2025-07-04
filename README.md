@@ -4,7 +4,7 @@ This repository contains a collection of Jupyter Notebooks demonstrating fundame
 
 ---
 
-## 📁 Notebooks
+## Notebooks
 
 | No. | File | Description |
 |-----|------|-------------|
@@ -18,7 +18,7 @@ This repository contains a collection of Jupyter Notebooks demonstrating fundame
 
 ---
 
-## 🧪 Tools Used
+## Tools Used
 
 - Python 3.11
 - Jupyter Notebooks
@@ -27,7 +27,7 @@ This repository contains a collection of Jupyter Notebooks demonstrating fundame
 
 ---
 
-## 📌 Notes
+## Notes
 
 - All simulations are based on concepts from *"Atom to Transistor"* by Prof. Supriyo Datta.
 - Some models compare TBM results with known analytical solutions.
@@ -35,7 +35,7 @@ This repository contains a collection of Jupyter Notebooks demonstrating fundame
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to explore, fork, or reach out for collaboration!
 
