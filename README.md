@@ -4,21 +4,21 @@ This repository contains a collection of Jupyter Notebooks demonstrating both fu
 
 ---
 
-## 📘 Notebooks Included
+## Notebooks Included
 
 | No. | File                                | Description |
 |-----|-------------------------------------|-------------|
-| 1   | `1_particlein1DBox(PBC).ipynb`      | Particle in a 1D box with Periodic Boundary Conditions — analytical vs TBM dispersion. |
-| 2   | `2_TBM(1D)SOLID.ipynb`              | Energy band formation in a 1D solid using TBM — visualization of bands with increasing N. |
+| 1   | `1_particlein1DBox(PBC).ipynb`      | Particle in a 1D box with Periodic Boundary Conditions - analytical vs TBM dispersion. |
+| 2   | `2_TBM(1D)SOLID.ipynb`              | Energy band formation in a 1D solid using TBM - visualization of bands with increasing N. |
 | 3   | `3_Porbitals(VALENCEBAND).ipynb`    | Shows how p-orbital interactions affect valence band structure. |
-| 4   | `4_TBMBenzene.ipynb`                | Tight-binding model for benzene — energy levels and delocalized π-states. |
+| 4   | `4_TBMBenzene.ipynb`                | Tight-binding model for benzene - energy levels and delocalized π-states. |
 | 5   | `5_latticewithBASIS(TBM).ipynb`     | Dimerized 1D lattice (e.g., Peierls distortion) simulation. |
 | 6   | `6_Graphene(TBM).ipynb`             | Graphene band structure using 2D hexagonal lattice and nearest-neighbor hopping. |
 | 7   | `7_GaAs.ipynb`                      | TBM-based band structure of GaAs with orbital offsets and on-site energies. |
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python 3.11
 - Jupyter Notebooks
@@ -27,7 +27,7 @@ This repository contains a collection of Jupyter Notebooks demonstrating both fu
 
 ---
 
-## 🧠 Notes
+## Notes
 
 - Simulations inspired by *"From Atom to Transistor"* by Prof. Supriyo Datta.
 - Includes analytical comparisons where possible.
@@ -35,7 +35,7 @@ This repository contains a collection of Jupyter Notebooks demonstrating both fu
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Siddharth Sinha**  
 B.Tech Engineering Physics  
